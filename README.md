@@ -5,14 +5,13 @@
 ---
 
 ### 🛠️ Tecnologías y Herramientas:
-
 <p align="center">
-  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript" alt="JavaScript">&nbsp;
-  <img src="https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js" alt="Node.js">&nbsp;
-  <img src="https://img.shields.io/badge/-Express-05122A?style=flat&logo=express" alt="Express">&nbsp;
-  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react" alt="React">&nbsp;
-  <img src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb" alt="MongoDB">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python" alt="Python">
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/ios-filled/50/000000/express-js.png" alt="Express" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
 </p>
 
 ---
