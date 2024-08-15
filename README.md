@@ -12,6 +12,7 @@
   <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
+  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="Python" width="60" height="60"/>
 </p>
 
 
