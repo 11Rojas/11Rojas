@@ -4,7 +4,7 @@
 
 ---
 
-### 🛠️ Tecnologías y Herramientas:
+### 🛠️ Tecnologías y Lenguajes:
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="60" height="60"/>&nbsp;&nbsp;
