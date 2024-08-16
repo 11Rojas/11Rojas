@@ -14,6 +14,7 @@
   <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
   <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="Python" width="60" height="60"/>
    <img src="https://svgl.app/library/typescript.svg" alt="Python" width="60" height="60"/>
+    <img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="Python" width="60" height="60"/>
 </p>
 
 
