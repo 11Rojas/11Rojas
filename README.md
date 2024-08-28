@@ -16,6 +16,8 @@
    <img src="https://svgl.app/library/typescript.svg" alt="Python" width="60" height="60"/>
     <img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="Python" width="60" height="60"/>
       <img src="https://svgl.app/library/djs.svg" alt="Python" width="60" height="60"/>
+    <img src="https://svgl.app/library/tailwindcss.svg" alt="Python" width="60" height="60"/>
+
 </p>
 
 
