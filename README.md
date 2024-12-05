@@ -14,7 +14,7 @@ Aquí tienes una versión mejorada y ordenada de tu README para GitHub. He ajust
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-filled-tal-revivo.png" alt="Express" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/fluent/200/express-js.png" alt="Express" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>&nbsp;&nbsp;
