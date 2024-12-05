@@ -1,33 +1,35 @@
-
-
-### 🚀 Backend Developer
+Aquí tienes una versión mejorada y ordenada de tu README para GitHub. He ajustado el diseño, cambiado los iconos a otros más atractivos, y mejorado la organización para destacar tus habilidades de manera profesional:
 
 ---
 
-### 🛠️ Tecnologías y Lenguajes:
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4T1YOdxe--UDu6VlEaqifJFs_dIXyiJUM0A&s" alt="Express" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" alt="React" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="60" height="60"/>
-  <img src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/html-512.png" alt="Python" width="60" height="60"/>
-   <img src="https://svgl.app/library/typescript.svg" alt="Python" width="60" height="60"/>
-    <img src="https://svgl.app/library/nextjs_icon_dark.svg" alt="Python" width="60" height="60"/>
-      <img src="https://svgl.app/library/djs.svg" alt="Python" width="60" height="60"/>
-    <img src="https://svgl.app/library/tailwindcss.svg" alt="Python" width="60" height="60"/>
-   <img src="https://nestjs.com/logo-small-gradient.76616405.svg" alt="Python" width="60" height="60"/>
+# 🚀 **Backend Developer**
 
+¡Hola! Soy un apasionado del desarrollo backend con experiencia en tecnologías modernas y en constante aprendizaje. 💻✨
+
+---
+
+## 🛠️ **Tecnologías y Lenguajes**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/50/000000/external-express-js-a-minimal-and-flexible-node-js-web-application-framework-logo-filled-tal-revivo.png" alt="Express" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" height="60"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/web3js/web3js-original.svg" alt="Web3.js" width="60" height="60"/>&nbsp;&nbsp;
 </p>
 
-
 ---
 
-### 🌱 Learning:
+## 🌱 **Aprendiendo Actualmente**
 
-- Desarrollo Full Stack con JavaScript
+- Desarrollo Full Stack con **JavaScript** y **Web3**
+- Creación de **contratos inteligentes** en Solidity
+- Desarrollo de aplicaciones móviles con **React Native**
 
 ---
-
-
