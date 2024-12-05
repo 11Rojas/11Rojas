@@ -1,5 +1,3 @@
-Aquí tienes una versión mejorada y ordenada de tu README para GitHub. He ajustado el diseño, cambiado los iconos a otros más atractivos, y mejorado la organización para destacar tus habilidades de manera profesional:
-
 ---
 
 # 🚀 **Backend Developer**
