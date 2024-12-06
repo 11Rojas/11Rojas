@@ -20,6 +20,8 @@
   <img src="https://icons.veryicon.com/png/o/business/vscode-program-item-icon/tailwindcss.png" alt="Tailwind CSS" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="60" height="60"/>&nbsp;&nbsp;
   <img src="https://static.vecteezy.com/system/resources/thumbnails/042/382/061/small_2x/web-3-0-3d-illustration-icon-png.png" alt="Web3.js" width="60" height="60"/>&nbsp;&nbsp;
+    <img src="https://static-00.iconduck.com/assets.00/nextjs-icon-2048x2048-x6n5t31i.png" alt="Next.js" width="60" height="60"/>&nbsp;&nbsp;
+
 </p>
 
 ---
